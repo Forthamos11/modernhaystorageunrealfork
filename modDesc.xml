@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="72">
+    <author>The Lort</author>
+    <version>1.1.0.0</version>
+
+    <title>
+        <en>Modern Hay Storage</en>
+        <de>Modernes Heulager</de>
+		<fr>Stockage De Foin Moderne</fr>
+    </title>
+
+    <description>
+<en><![CDATA[This hay store works like the hay store from the main game.
+
+Name: Modern Hay Storage
+Price: 90000€
+Maintenance: 40€/day
+Capacity: 250000 liters
+
+Changelog 1.1.0.0:
+-Improved snow roof
+-Bales are now also accepted
+-Other small changes]]></en>
+<de><![CDATA[Dieses Heulager funktioniert wie das Heulager aus dem Hauptspiel.
+
+Name: Modernes Heulager
+Preis: 90000€
+Unterhalt: 40€/Tag
+Kapazität: 250000 Liter
+
+Changelog 1.1.0.0:
+-Verbessertes Schnee Dach
+-Ballen werden jetzt auch akzeptiert
+-weitere kleine Änderungen]]></de>
+<fr><![CDATA[Ce magasin de foin fonctionne comme le magasin de foin du jeu principal.
+
+Nom : stockage de foin moderne.
+Prix ​​: 90000€
+Entretien : 40€/jour
+Capacité : 250000 litres
+
+Changelog 1.1.0.0 :
+-Amélioration du toit de neige
+-les balles sont maintenant acceptées
+-d'autres petites modifications]]></fr>
+    </description>
+
+    <iconFilename>icon_hayloft.png</iconFilename>
+    <multiplayer supported="true"/>
+	
+    <storeItems>
+        <storeItem xmlFilename="hayLoft.xml"/>
+    </storeItems>
+
+    <l10n>
+        <text name="shopItem_modernHewStorage">
+            <en>Modern hay storage</en>
+            <de>Modernes Heulager</de>
+			<fr>Stockage de foin moderne</fr>
+        </text>
+    </l10n>
+</modDesc>
