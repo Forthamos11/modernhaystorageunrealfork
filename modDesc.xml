@@ -4,9 +4,9 @@
     <version>1.1.0.0</version>
 
     <title>
-        <en>Modern Hay Storage</en>
-        <de>Modernes Heulager</de>
-		<fr>Stockage De Foin Moderne</fr>
+        <en>Modern unrealistic Hay Storage</en>
+        <de>Modernes Unrealistisches Heulager</de>
+		<fr>Stockage De Foin Moderne (i dont speak french lol)</fr>
     </title>
 
     <description>
@@ -26,7 +26,7 @@ Changelog 1.1.0.0:
 Name: Modernes Heulager
 Preis: 90000€
 Unterhalt: 40€/Tag
-Kapazität: 250000 Liter
+Kapazität: 250000000 Liter
 
 Changelog 1.1.0.0:
 -Verbessertes Schnee Dach
@@ -54,8 +54,8 @@ Changelog 1.1.0.0 :
 
     <l10n>
         <text name="shopItem_modernHewStorage">
-            <en>Modern hay storage</en>
-            <de>Modernes Heulager</de>
+            <en>Modern unrealistic hay storage</en>
+            <de>Modernes Unrealistisches Heulager</de>
 			<fr>Stockage de foin moderne</fr>
         </text>
     </l10n>
