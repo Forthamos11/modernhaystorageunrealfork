@@ -248,7 +248,7 @@
 
   <UserAttributes>
     <UserAttribute nodeId="60">
-      <Attribute name="capacityPerType" type="float" value="250000"/>
+      <Attribute name="capacityPerType" type="float" value="250000000"/>
       <Attribute name="storageName" type="string" value="hayLoft"/>
     </UserAttribute>
   </UserAttributes>
